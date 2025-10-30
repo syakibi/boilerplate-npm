@@ -1,7 +1,8 @@
 {
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
-    "express": "^4.14.0"
+	"package-name": "@freecodecamp/example",
+    "express": "1.2.13"
   },
   "main": "server.js",
   "scripts": {
@@ -18,7 +19,7 @@
   "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
   "version": "1.0.0",
   "devDependencies": {},
-  "keywords": [],
+  "keywords": ["freeCodeCamp", "boilerplate", "package.json"],
   "author": "syakibi",
-  "license": "ISC"
+  "license": "MIT"
 }
